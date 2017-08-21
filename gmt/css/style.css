@@ -594,7 +594,7 @@ body {
   width: 98%;
   margin: 30px auto;
 }
-.home_about .about_com .a_right .more {
+.home_about .about_com .a_right .更多 {
   color: #fff;
   font-size: 14px;
   height: 40px;
@@ -604,7 +604,7 @@ body {
   text-align: center;
   line-height: 40px;
 }
-.home_about .about_com .a_right .more:hover {
+.home_about .about_com .a_right .更多:hover {
   font-weight: 700;
 }
 @media (max-width: 768px) {
@@ -722,7 +722,7 @@ body {
   margin: 10px 0px;
   overflow: hidden;
 }
-.home_news .news_com .n_left .more {
+.home_news .news_com .n_left .更多 {
   width: 160px;
   height: 36px;
   background: #0083c7;
@@ -734,7 +734,7 @@ body {
   margin-top: 20px;
   transition: 0.3s;
 }
-.home_news .news_com .n_left .more:hover {
+.home_news .news_com .n_left .更多:hover {
   background: #fe9d00;
 }
 .home_news .news_com .n_right {
@@ -1327,7 +1327,7 @@ body {
   margin: 15px 0px 20px;
   width: 37%;
 }
-.pro_ul li .text .more {
+.pro_ul li .text .更多 {
   background: #999999;
   color: #fff;
   font-size: 12px;
@@ -1340,7 +1340,7 @@ body {
   position: relative;
   text-align: center;
 }
-.pro_ul li .text .more:after {
+.pro_ul li .text .更多:after {
   width: 71px;
   height: 24px;
   border: 1px solid #adadad;
@@ -1355,11 +1355,11 @@ body {
 .pro_ul li:hover .text span {
   background: #0083c7;
 }
-.pro_ul li:hover .text .more {
+.pro_ul li:hover .text .更多 {
   background: #0083c7;
   border: 1px solid #0083c7;
 }
-.pro_ul li:hover .text .more:after {
+.pro_ul li:hover .text .更多:after {
   border: 1px solid #0083c7;
 }
 @media (max-width: 640px) {
@@ -2012,7 +2012,7 @@ body {
 .cont_text p a {
   font-family: arial;
 }
-/*在线留言*/
+/*产品中心*/
 .mess_nei {
   background: #fff;
   margin: auto;
